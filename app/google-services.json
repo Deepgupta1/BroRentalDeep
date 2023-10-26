@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472719244340",
+    "project_id": "brorental-ba45a",
+    "storage_bucket": "brorental-ba45a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472719244340:android:849cef9fdec8e708b09e61",
+        "android_client_info": {
+          "package_name": "com.example.brorental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIt39faH_vZQ59t3CHHPrbqn8w0KDeIas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
